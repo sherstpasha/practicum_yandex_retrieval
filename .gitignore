@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+nlp_s3_project/
 develop-eggs/
 dist/
 downloads/
